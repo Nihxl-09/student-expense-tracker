@@ -22,11 +22,8 @@ Spendly is a responsive expense tracker designed to help students record and und
 
 ## Live Demo
 
-Add your GitHub Pages link here after deployment.
+[Open the live website] https://nihxl-09.github.io/student-expense-tracker/
 
-## Screenshots
-
-Add a screenshot of the finished application here.
 
 ## How to Run Locally
 
