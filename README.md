@@ -1,48 +1,106 @@
-# Spendly - Student Expense Tracker
+# Spendly — Student Expense Tracker
 
-Spendly is a responsive expense tracker designed to help students record and understand their daily spending.
+A clean and responsive web application designed to help students record, monitor, and understand their everyday spending.
+
+🌐 **Live Demo:** [Open Spendly](https://nihxl-09.github.io/student-expense-tracker/)
+
+---
+
+## Overview
+
+**Spendly** is a lightweight expense-tracking application built with vanilla web technologies.
+
+It provides a simple interface for recording expenses and viewing useful spending information without requiring an account or external database.
+
+All expense data is stored locally in the user's browser.
+
+---
 
 ## Features
 
-- Add expenses with a title, amount, category and date.
-- View total spending.
-- View the number of transactions.
-- Identify the most-used expense category.
-- Delete individual expenses.
-- Clear all expenses.
-- Save data in the browser using localStorage.
-- Responsive design for desktop and mobile screens.
+* Add expenses with a title, amount, category, and date
+* Track total spending
+* View transaction count
+* Identify the most-used expense category
+* Delete individual expenses
+* Clear stored expenses
+* Persistent browser storage
+* Responsive interface for desktop and mobile devices
+* Clean and straightforward user experience
 
-## Technologies
+---
 
-- HTML
-- CSS
-- JavaScript
-- Web Storage API
+## Technology
 
-## Live Demo
+* **HTML5** — Application structure
+* **CSS3** — Responsive interface and visual design
+* **JavaScript** — Application logic and interactions
+* **Web Storage API** — Local data persistence
 
-[Open the live website] https://nihxl-09.github.io/student-expense-tracker/
+---
 
+## How It Works
 
-## How to Run Locally
+Spendly follows a simple workflow:
 
-1. Clone this repository.
-2. Open `index.html` in a browser.
-3. Or use the Live Server extension in VS Code.
+**Add Expense → Store Data → Analyze Spending → Manage Transactions**
 
-## What I Learned
+Expenses are saved locally in the browser, allowing the data to remain available when the application is reopened on the same device and browser.
 
-- Handling form input with JavaScript.
-- Updating the page dynamically.
-- Using localStorage to persist data.
-- Creating responsive layouts.
-- Organizing a frontend project.
+---
 
-## Future Improvements
+## Live Application
 
-- Add monthly spending filters.
-- Add category-based charts.
-- Add an edit-expense feature.
-- Export expenses as CSV.
-- Add budget tracking.
+Try the application here:
+
+**[Launch Spendly →](https://nihxl-09.github.io/student-expense-tracker/)**
+
+---
+
+## Project Focus
+
+This project was built to practice practical frontend development concepts, including:
+
+* DOM manipulation
+* Form handling
+* Client-side data persistence
+* Dynamic interface updates
+* Responsive web design
+* User-focused interface development
+
+---
+
+## Project Status
+
+**Completed**
+
+The current version provides the core expense tracking experience and is available as a live web application.
+
+---
+
+## Future Possibilities
+
+Potential directions for expanding the application include:
+
+* Monthly spending insights
+* Category-based visual analytics
+* Expense editing
+* Budget management
+* CSV data export
+* More detailed spending summaries
+
+---
+
+## Developer
+
+**Muhammad Nihal**
+
+Computer Science Student & Developer
+
+**GitHub:** [Nihxl-09](https://github.com/Nihxl-09)
+
+**Portfolio:** [nihxl-09.github.io/nihal-portfolio](https://nihxl-09.github.io/nihal-portfolio/)
+
+---
+
+© Muhammad Nihal
